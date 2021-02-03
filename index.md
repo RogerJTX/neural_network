@@ -9,7 +9,7 @@
 Main Notes Website  
 [https://rogerjtx.github.io/](https://rogerjtx.github.io/)
 
-Neural Network [CNN, RNN]
+Neural Network [CNN, RNN]  
 [https://rogerjtx.github.io/](https://rogerjtx.github.io/)
  
 Word2Vector [ELMo, Bert, ALBert]    
