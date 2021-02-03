@@ -191,7 +191,7 @@ url:
 
 #### 3.1 CNN中pooling层的作用 https://www.cnblogs.com/makefile/p/pooling.html https://blog.csdn.net/kele_imon/article/details/79532286
 
-池化的作用 pooling，小名池化，思想来自于视觉机制，是对信息进行抽象的过程。简而言之，池化就是去除杂余信息，保留关键信息。 
+> 池化的作用 pooling，小名池化，思想来自于视觉机制，是对信息进行抽象的过程。简而言之，池化就是去除杂余信息，保留关键信息。 
 
 ![](index_images/d5d45d4c.png)
 
